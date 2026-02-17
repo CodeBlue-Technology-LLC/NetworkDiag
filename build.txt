@@ -1,2 +1,2 @@
 cd C:\Users\sglomb\source\repos\NetworkDiag\NetworkDiag
-dotnet publish NetworkDiag.csproj -c Release -r win-x64 --self-contained false -p:PublishSingleFile=true -o "C:\Users\sglomb\source\repos\NetworkDiag\NetworkDiag-Small"
+dotnet build -c Release
