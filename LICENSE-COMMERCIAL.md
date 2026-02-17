@@ -29,8 +29,8 @@ and organization size.
 
 Contact CodeBlue to discuss your requirements:
 
-- **Website:** https://codeblue.cloud
-- **Email:** licensing@codeblue.cloud
+- **Website:** https://codebluetechnology.com
+- **Email:** service@codebluetechnology.com
 
 Please include a brief description of your intended use and approximate team size.
 We aim to respond within one business day.
