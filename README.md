@@ -19,6 +19,8 @@ Launches instantly and runs all common triage tests automatically — no configu
 - **CPU Usage** — 1-second overall CPU % sample
 - **Status Summary** — Green OK / Yellow Warning / Red Problem at the bottom with the first detected issue
 
+![MSP Network Diagnostics](assets/networkdiag.png)
+
 ---
 
 ## Usage
