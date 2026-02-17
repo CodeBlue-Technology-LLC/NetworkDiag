@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 64 64"
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="icon.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   inkscape:export-filename="C:\Users\sglomb\Downloads\icon.png"
+   inkscape:export-xdpi="1536"
+   inkscape:export-ydpi="1536"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="8.9161746"
+     inkscape:cx="37.852556"
+     inkscape:cy="32.132614"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <!-- Orange circle background -->
+  <circle
+     cx="32"
+     cy="32"
+     r="30"
+     fill="#FF7A00"
+     id="circle1" />
+  <circle
+     cx="32"
+     cy="32"
+     r="30"
+     fill="none"
+     stroke="#CC5500"
+     stroke-width="2"
+     id="circle2" />
+  <!-- Network/ethernet plug body -->
+  <!-- Plug head (RJ45 style connector) -->
+  <rect
+     x="12.286341"
+     y="17.018417"
+     width="39.800686"
+     height="26.533789"
+     rx="3.3167236"
+     ry="3.3167236"
+     fill="#1a1a2e"
+     stroke="#ffffff"
+     stroke-width="2.48755"
+     id="rect2" />
+  <!-- Connector pins (gold contacts) -->
+  <rect
+     x="17.261427"
+     y="23.651865"
+     width="4.145905"
+     height="9.9501715"
+     rx="0.8291809"
+     fill="#ffd700"
+     id="rect3"
+     style="stroke-width:1.65836" />
+  <rect
+     x="23.894873"
+     y="23.651865"
+     width="4.145905"
+     height="9.9501715"
+     rx="0.8291809"
+     fill="#ffd700"
+     id="rect4"
+     style="stroke-width:1.65836" />
+  <rect
+     x="30.528322"
+     y="23.651865"
+     width="4.145905"
+     height="9.9501715"
+     rx="0.8291809"
+     fill="#ffd700"
+     id="rect5"
+     style="stroke-width:1.65836" />
+  <rect
+     x="37.16177"
+     y="23.651865"
+     width="4.145905"
+     height="9.9501715"
+     rx="0.8291809"
+     fill="#ffd700"
+     id="rect6"
+     style="stroke-width:1.65836" />
+  <rect
+     x="44.228748"
+     y="23.644205"
+     width="4.145905"
+     height="9.9501715"
+     rx="0.8291809"
+     fill="#ffd700"
+     id="rect6-9"
+     style="stroke-width:1.65836" />
+  <!-- Plug latch/clip -->
+  <rect
+     x="25.553236"
+     y="13.701693"
+     width="13.266894"
+     height="4.9750857"
+     rx="1.6583618"
+     fill="#ffffff"
+     id="rect7"
+     style="stroke-width:1.65836" />
+  <!-- Cable going down -->
+  <rect
+     x="25.553236"
+     y="41.893845"
+     width="13.266894"
+     height="9.9501715"
+     rx="0"
+     fill="#1a1a2e"
+     stroke="#ffffff"
+     stroke-width="2.48755"
+     id="rect8" />
+  <!-- Cable tail -->
+</svg>
